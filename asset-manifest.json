@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MotivationalQuoteWebsite--ReactJS/static/css/main.ff44ece6.css",
+    "main.js": "/MotivationalQuoteWebsite--ReactJS/static/js/main.12dfe705.js",
+    "index.html": "/MotivationalQuoteWebsite--ReactJS/index.html",
+    "main.ff44ece6.css.map": "/MotivationalQuoteWebsite--ReactJS/static/css/main.ff44ece6.css.map",
+    "main.12dfe705.js.map": "/MotivationalQuoteWebsite--ReactJS/static/js/main.12dfe705.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff44ece6.css",
+    "static/js/main.12dfe705.js"
+  ]
+}
